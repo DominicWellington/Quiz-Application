@@ -1,0 +1,215 @@
+{
+    "questions": [
+        {    "id" : 1,
+            "question": "What is the capital of ghana?",
+            "options" : [
+                {
+                    "answer" : "Kumasi",
+                    "isCorrect" : false
+                },
+                {
+                    "answer" : "Navorogo",
+                    "isCorrect" : false
+                },
+                {
+                    "answer" : "Temale",
+                    "isCorrect" : false
+                },
+                {
+                    "answer" : "Accra",
+                    "isCorrect" : true
+                }          
+            ]
+        },
+        {    "id" : 2,
+            "question": "What Currency do the country ghana Use?",
+            "options" : [
+                {
+                    "answer" : "Dollar",
+                    "isCorrect" : false
+                },
+                {
+                    "answer" : "Cedis",
+                    "isCorrect" : true
+                },
+                {
+                    "answer" : "Pounds",
+                    "isCorrect" : false
+                },
+                {
+                    "answer" : "Yen",
+                    "isCorrect" : false
+                }
+            ]
+        },
+        {    "id" : 3,
+        "question": "What is the most use front-end framework ?",
+        "options" : [
+            {
+                "answer" : "React",
+                "isCorrect" : true
+            },
+            {
+                "answer" :  "Vue",
+                "isCorrect" : false
+            },
+            {
+                "answer" : "Angular",
+                "isCorrect" : false
+            },
+            {
+                "answer" : "Svelte",
+                "isCorrect" : false
+            }
+        ]
+    },
+    {    "id" : 4,
+    "question": "What is the offical language of ghana ?",
+    "options" : [
+        {
+            "answer" : "Chinese",
+            "isCorrect" : false
+        },
+        {
+            "answer" :  "Spanish",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Latin",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "English",
+            "isCorrect" : true
+        }
+    ]
+    },
+    {    "id" : 5,
+    "question": "What festival do the Ga's celebrate ?",
+    "options" : [
+        {
+            "answer" : "Aboakyer Festival",
+            "isCorrect" : false
+        },
+        {
+            "answer" :  "Odwira Festival",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Homowo Festival",
+            "isCorrect" : true
+        },
+        {
+            "answer" : "Hogbetsotso Festival",
+            "isCorrect" : false
+        }
+    ]
+    },
+    {    "id" : 6,
+    "question": "Who was the first President of ghana?",
+    "options" : [
+        {
+            "answer" : "Atta Mills",
+            "isCorrect" : false
+        },
+        {
+            "answer" :  "Kwame Nkrumah",
+            "isCorrect" : true
+        },
+        {
+            "answer" : "Jerry Rawlings",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "John Kuffor",
+            "isCorrect" : false
+        }
+    ]
+    },
+    {    "id" : 7,
+    "question": "What is the name of the highest mountian in ghana ?",
+    "options" : [
+        {
+            "answer" :  "Mount Afadjato",
+            "isCorrect" : true
+        },
+        {
+            "answer" :  "Mount Adweso",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Mount Akwawa",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Mount Krobo",
+            "isCorrect" : false
+        }
+    ]
+    },
+    {    "id" : 8,
+    "question": "Which of the following is a major crop grown in ghana ?",
+    "options" : [
+        {
+            "answer" :  "Coffee",
+            "isCorrect" : false
+        },
+        {
+            "answer" :  "Cotton",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Cocoa",
+            "isCorrect" : true
+        },
+        {
+            "answer" : "Sugarcane",
+            "isCorrect" : false
+        }
+    ]
+    },
+    {    "id" : 9,
+    "question": "What is the longest man-made river in ghana ?",
+    "options" : [
+        {
+            "answer" : "Tano River",
+            "isCorrect" : false
+        },
+        {
+            "answer" :  "Pra River",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Ankobra River",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Volta River",
+            "isCorrect" :true
+        }
+    ]
+    },
+    {    "id" : 10,
+    "question": "Which of the following is a popular ghanaian dish ?",
+    "options" : [
+        {
+            "answer" : "Jollof Rice",
+            "isCorrect" : false
+        },
+        {
+            "answer" :   "Fufu and Soup",
+            "isCorrect" : true
+        },
+        {
+            "answer" : "Banku and Tilapia",
+            "isCorrect" : false
+        },
+        {
+            "answer" : "Kenkye and Fish",
+            "isCorrect" : false
+        }
+    ]
+    }
+
+    ]
+}

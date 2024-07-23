@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:url('./assets/2022_11_24_13_43_IMG_1779.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
